@@ -3,16 +3,9 @@ package com.lukas;
 
 import java.time.LocalDate;
 
-        public class CarrotSellers {
+        public class CarrotSeller {
 
 
-            //private String Name;
-            //private LocalDate DateOfBirth;
-            //private int NumberOfContracts;
-            //private double TonsOfCarrot;
-            //private String City;
-            //private String PlateNumber;
-            //private double FuelConsumption;
 
             private String Name;
             private LocalDate DateOfBirth;
